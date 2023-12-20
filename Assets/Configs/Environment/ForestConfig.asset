@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06c9a06fb6dfccc49898f5182f8a6900, type: 3}
+  m_Name: ForestConfig
+  m_EditorClassIdentifier: 
+  _environmentGO:
+  - {fileID: 8987231068187745432, guid: f3cfb17fdc86c0e4095a0614f72d19d1, type: 3}
+  - {fileID: 8987231068187745432, guid: b940f09057705c148820d649b4e03af5, type: 3}
+  - {fileID: 8987231068187745432, guid: fa4b531027daaff418cdd0ee88dd3362, type: 3}
+  - {fileID: 8987231068187745432, guid: bcb003f67aa332c4a87e47d1f4f68360, type: 3}
+  _blockConfigs:
+  - {fileID: 11400000, guid: eb160192433eade4d97f65302c125317, type: 2}
+  - {fileID: 11400000, guid: 8cb77e68defd64947a5edd3f0b0e6c93, type: 2}
+  _frequency: 15
